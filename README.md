@@ -1,11 +1,11 @@
 你好这里是颍川巢许
 
-yo bro this is YCCX
+Yo bro, this is YCCX.
 
-一个平平无奇的EE人
+一个平平无奇的EE人，目前在厦门大学工作，研究飞行时间质谱仪。
 
-I am an ordinary Electrical and Electronic Engineering student
+I'm an ordinary EE guy and a staff member at Xiamen University, working on time-of-flight mass spectrometers.
 
 随便上传点自己的屎山
 
-Just upload some code-trash which writed by myself.
+I just upload some code trash I wrote myself.
